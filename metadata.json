@@ -1,0 +1,8 @@
+{
+  "name": "AI Media Lab",
+  "description": "A powerful tool for generating AI images and videos using free-tier models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
